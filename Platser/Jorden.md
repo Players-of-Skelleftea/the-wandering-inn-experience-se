@@ -1,0 +1,1 @@
+Jorden är bara den vanliga världen där vi lever. Skiljer sig från [[Innworld]].

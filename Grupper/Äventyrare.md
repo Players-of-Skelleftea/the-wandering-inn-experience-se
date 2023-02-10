@@ -1,0 +1,1 @@
+Äventyrare är människor som tjänar sin lön genom att slutföra "uppdrag" eller bounties. I allmänhet listas dessa uppgifter i en Adventurers Guild.

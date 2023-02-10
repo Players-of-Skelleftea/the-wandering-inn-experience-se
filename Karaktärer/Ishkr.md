@@ -1,0 +1,2 @@
+![[Ishkr_with_suit_cut_out_by_Butts.webp]]
+ Ishkr är den mest pålitliga arbetaren i [[The Wandering Inn]]. Han kan ta det mesta i steg, vilket har gjort det möjligt för honom att klara alla händelser på värdshusnivå. Han har en lugn natur och låter sig inte sugas in i det kaos som ofta händer.

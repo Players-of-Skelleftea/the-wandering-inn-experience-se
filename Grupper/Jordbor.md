@@ -1,0 +1,1 @@
+Människor ursprungligen från [[Jorden]]. Inte född på [[Innworld]].

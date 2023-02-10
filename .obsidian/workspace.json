@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "dc933f1ade95fba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "718ddc670475cef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5225738dbce66955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karaktärer/Mrsha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4109a98b17594ace",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0d54a3396378eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annat/Real Life Wandering Inn Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61822c7b3906da2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raser/Soldat Antinium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c27ffe1d626e4b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5c64dc2fb119ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7298fe88ca901ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dffe3cf7bfebafd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eff147d98654320e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20f28a9a03308c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b878d287860a175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b13b8dfce305b7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Raser/Soldat Antinium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8091d4778305f222",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Raser/Soldat Antinium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e380478c0c0530f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fa0e250952813f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Raser/Soldat Antinium.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61822c7b3906da2b",
+  "lastOpenFiles": [
+    "Sammarbetspartners/Collaborators.md",
+    "Raser/Soldat Antinium.md",
+    "Raser/Människor.md",
+    "Raser/Goblin.md",
+    "Raser/Gnoll.md",
+    "Raser/Arbetar Antinium.md",
+    "Raser/Antinium.md",
+    "Raser/Drake.md",
+    "Platser/The Wandering Inn.md",
+    "Platser/Liscor.md"
+  ]
+}
